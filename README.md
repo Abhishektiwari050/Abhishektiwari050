@@ -1,261 +1,225 @@
 <div align="center">
 
-<!--
- ██████╗ ██████╗  ██████╗ ███████╗██╗██╗     ███████╗
- ██╔══██╗██╔══██╗██╔═══██╗██╔════╝██║██║     ██╔════╝
- ██████╔╝██████╔╝██║   ██║█████╗  ██║██║     █████╗
- ██╔═══╝ ██╔══██╗██║   ██║██╔══╝  ██║██║     ██╔══╝
- ██║     ██║  ██║╚██████╔╝██║     ██║███████╗███████╗
- ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝╚══════╝
--->
+<!-- Header Hero Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6E57F7&height=220&section=header&text=ABHISHEK%20TIWARI&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Agentic%20Systems%20%E2%80%A2%20Full-Stack%20Developer&descSize=18&descAlignY=62&descAlign=50" width="100%" alt="Abhishek Tiwari Header Banner" />
 
-<!-- ░░ PIXEL TITLE ░░ -->
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&duration=3500&pause=2000&color=6E57F7&center=true&vCenter=true&width=720&height=90&lines=ABHISHEK+TIWARI" alt="Name" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=2800&pause=1200&color=9D8EFF&center=true&vCenter=true&width=720&height=50&lines=AI+ENGINEER+%2F+AGENTIC+SYSTEMS;FULL-STACK+%2F+MOBILE+%2F+DEVOPS;OPEN+TO+WORK+%5B2026%5D" alt="Role" />
+<!-- Dynamic Animated Subtitle -->
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=9D8EFF&center=true&vCenter=true&width=750&height=48&lines=Building+Autonomous+Multi-Agent+Systems+%F0%9F%A4%96;Event-Driven+%26+Distributed+Architectures+%E2%9A%A1;Full-Stack+Web%2C+Android+%26+Cloud+Platforms+%F0%9F%8C%90;Class+of+2026+%E2%80%A2+Open+to+Engineering+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<!-- ░░ STATUS BADGES ░░ -->
-<a href="https://www.linkedin.com/in/abhishek-tiwari-84841b258/">
-  <img src="https://img.shields.io/badge/-LinkedIn-6E57F7?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://antishake.vercel.app">
-  <img src="https://img.shields.io/badge/-Portfolio-6E57F7?style=flat-square&logo=vercel&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:antishake605@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-6E57F7?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat-square&logo=checkmarx&logoColor=white" />
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Abhishektiwari050&style=flat-square&color=6E57F7&label=visitors" />
-
-<br/><br/>
-
-<!-- ░░ PIXEL DIVIDER ░░ -->
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
+<!-- Interactive Quick Links & Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhishek-tiwari-84841b258/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://antishake.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-6E57F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="mailto:abhishektiwari050@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Abhishektiwari050">
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Work%20(2026)-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Abhishektiwari050&style=for-the-badge&color=6E57F7&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
 </div>
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!--                     ABOUT SECTION                       -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+---
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" />
+### ⚡ System Diagnostics & About Me
 
-```python
-# whoami
-{
-  "name"      : "Abhishek Tiwari",
-  "role"      : "AI Engineer",
-  "focus"     : "Agentic Systems",
-  "degree"    : "B.Tech CSE  [ 2026 ]",
-  "location"  : "India  🇮🇳",
-  "site"      : "antishake.vercel.app",
+```yaml
+identity:
+  name: Abhishek Tiwari
+  title: AI Engineer & Full-Stack Systems Architect
+  education: B.Tech in Computer Science & Engineering (Class of 2026)
+  location: India 🇮🇳
+  portfolio: https://antishake.vercel.app
 
-  "building"  : [
-    "multi-agent AI pipelines",
-    "event-driven backends",
-    "full-stack web apps",
-    "android mobile apps",
-  ],
+core_focus:
+  - Designing multi-agent autonomous architectures & cognitive workflows
+  - Real-time asynchronous distributed systems & telemetry pipelines
+  - Production-grade full-stack web applications & native mobile software
+  - Local RAG, semantic search, and multi-model consensus systems
 
-  "stack"     : "Python · TS · Kotlin · Go",
-  "status"    : "open to full-time roles  🚀",
-}
+current_status:
+  seeking: "Full-Time Roles / High-Impact Opportunities in AI Engineering & Full-Stack"
+  mentality: "Ship scalable systems, write clean reproducible code, automate everything."
 ```
 
-<br clear="right"/>
+---
+
+### 🛠️ Technical Arsenal
 
 <div align="center">
 
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!--                    TECH STACK                           -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=0&pause=9999&color=6E57F7&center=true&vCenter=true&width=720&height=40&lines=%3E+TECH+STACK_" alt="Tech Stack" />
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,tensorflow&perline=4&theme=dark" />
-<img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind&perline=4&theme=dark" />
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,mongo,redis&perline=4&theme=dark" />
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,docker,githubactions&perline=4&theme=dark" />
-<img src="https://skillicons.dev/icons?i=git,linux,vercel,vscode&perline=4&theme=dark" />
-
-<br/>
-
-![LangChain](https://img.shields.io/badge/LangChain-6E57F7?style=flat-square&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-6E57F7?style=flat-square&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-6E57F7?style=flat-square&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-6E57F7?style=flat-square&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-6E57F7?style=flat-square&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-6E57F7?style=flat-square&logoColor=white)
+<!-- Skill Icons Grid -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,ts,kotlin,go,fastapi,nodejs,nextjs,react,tailwind,postgres,mongodb,redis,docker,githubactions,linux,git&perline=8&theme=dark" alt="Tech Stack Icons" />
+</a>
 
 <br/><br/>
 
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!--                FEATURED PROJECTS                        -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=0&pause=9999&color=6E57F7&center=true&vCenter=true&width=720&height=40&lines=%3E+PROJECTS_" alt="Projects" />
-
-<br/>
-
 </div>
 
-<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="50%" valign="top" align="center">
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **🤖 AI & Agentic Systems** | `LangChain` `LangGraph` `CrewAI` `Local RAG` `Isolation Forest` `scikit-learn` `PyTorch` `Prompt Engineering` |
+| **💻 Programming Languages** | `Python` `TypeScript` `JavaScript` `Kotlin` `Go` `SQL` `HTML5 / CSS3` |
+| **🌐 Frontend Engineering** | `Next.js` `React` `Tailwind CSS` `Framer Motion` `Modern UI/UX` |
+| **⚙️ Backend & Distributed** | `FastAPI` `Node.js` `Express` `RabbitMQ (Event-Driven)` `WebSockets` `RESTful APIs` |
+| **🗄️ Databases & Storage** | `PostgreSQL` `MongoDB` `Redis` `Firebase` `Supabase` |
+| **☁️ Cloud & DevOps** | `Docker` `GitHub Actions (CI/CD)` `Vercel` `Render` `Linux` `Git` |
 
-### `🤖 multi-agent-anomaly-system`
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhishektiwari050&repo=multi-agent-anomaly-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&icon_color=9D8EFF&text_color=cccccc)](https://github.com/Abhishektiwari050/multi-agent-anomaly-system)
+---
 
-`Python` `FastAPI` `RabbitMQ` `ML`
+### 🚀 Highlighted Systems & Engineering Projects
 
-[![Live](https://img.shields.io/badge/LIVE-6E57F7?style=for-the-badge)](https://multi-agent-anomaly-system.onrender.com) [![Code](https://img.shields.io/badge/CODE-0D1117?style=for-the-badge&logo=github)](https://github.com/Abhishektiwari050/multi-agent-anomaly-system)
-
-</td>
-<td width="50%" valign="top" align="center">
-
-### `🌐 vistaarx`
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhishektiwari050&repo=vistaarx&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&icon_color=9D8EFF&text_color=cccccc)](https://github.com/Abhishektiwari050/vistaarx)
-
-`TypeScript` `Next.js` `Vercel`
-
-[![Live](https://img.shields.io/badge/LIVE-6E57F7?style=for-the-badge)](https://vistaarx.vercel.app) [![Code](https://img.shields.io/badge/CODE-0D1117?style=for-the-badge&logo=github)](https://github.com/Abhishektiwari050/vistaarx)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="center">
-
-### `📱 Family-Radar`
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhishektiwari050&repo=Family-Radar&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&icon_color=9D8EFF&text_color=cccccc)](https://github.com/Abhishektiwari050/Family-Radar)
-
-`Kotlin` `Android` `GPS`
-
-[![Code](https://img.shields.io/badge/CODE-0D1117?style=for-the-badge&logo=github)](https://github.com/Abhishektiwari050/Family-Radar)
-
-</td>
-<td width="50%" valign="top" align="center">
-
-### `🚛 jbs-cargo`
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhishektiwari050&repo=jbs-cargo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&icon_color=9D8EFF&text_color=cccccc)](https://github.com/Abhishektiwari050/jbs-cargo)
-
-`TypeScript` `Next.js` `Client`
-
-[![Live](https://img.shields.io/badge/LIVE-6E57F7?style=for-the-badge)](https://jbs-cargo.vercel.app) [![Code](https://img.shields.io/badge/CODE-0D1117?style=for-the-badge&logo=github)](https://github.com/Abhishektiwari050/jbs-cargo)
-
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">🤖 multi-agent-anomaly-system</h3>
+      <p>Asynchronous clinical telemetry monitoring and anomaly detection engine powered by a multi-agent system with real-time stream processing.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+        <img src="https://img.shields.io/badge/ML-Isolation_Forest-6E57F7?style=flat-square" />
+      </p>
+      <p>
+        <a href="https://multi-agent-anomaly-system.onrender.com"><b>🌐 Live Application</b></a> • 
+        <a href="https://github.com/Abhishektiwari050/multi-agent-anomaly-system"><b>💻 Source Code</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">🧠 llm-council</h3>
+      <p>Multi-model reasoning and consensus engine where diverse LLMs deliberate, debate, cross-examine hypotheses, and synthesize verified answers to complex problems.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Multi--Agent-Framework-6E57F7?style=flat-square" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/LLM-Orchestration-009688?style=flat-square" />
+      </p>
+      <p>
+        <a href="https://github.com/Abhishektiwari050/llm-council"><b>💻 Source Code</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">⚡ career-ops</h3>
+      <p>AI-driven career orchestration engine equipped with 14 specialized skill modes, high-concurrency Go dashboard, automated PDF synthesis, and batch job processing.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI-Automation-6E57F7?style=flat-square" />
+        <img src="https://img.shields.io/badge/Batch-Processing-3776AB?style=flat-square" />
+      </p>
+      <p>
+        <a href="https://github.com/Abhishektiwari050/career-ops"><b>💻 Source Code</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">📚 multi-pdf-local-rag</h3>
+      <p>Privacy-focused local Retrieval-Augmented Generation pipeline. Ingests, embeds, indexes, and queries cross-document knowledge bases with zero external telemetry.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/RAG-Vector_Search-6E57F7?style=flat-square" />
+        <img src="https://img.shields.io/badge/Embeddings-Semantic-009688?style=flat-square" />
+      </p>
+      <p>
+        <a href="https://github.com/Abhishektiwari050/multi-pdf-local-rag"><b>💻 Source Code</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">🌐 vistaarx</h3>
+      <p>Modern, responsive full-stack platform built with Next.js, featuring optimized server-side rendering, robust TypeScript typing, and streamlined developer DX.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://vistaarx.vercel.app"><b>🌐 Live Website</b></a> • 
+        <a href="https://github.com/Abhishektiwari050/vistaarx"><b>💻 Source Code</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">📱 Family-Radar</h3>
+      <p>Native Android application providing real-time family location tracking, GPS telemetry streaming, and geofencing alerts built for low-latency device performance.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/GPS-Realtime-6E57F7?style=flat-square" />
+      </p>
+      <p>
+        <a href="https://github.com/Abhishektiwari050/Family-Radar"><b>💻 Source Code</b></a>
+      </p>
+    </td>
+  </tr>
 </table>
 
+---
+
+### 📊 GitHub Activity & Telemetry
+
 <div align="center">
 
-<br/>
-
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!--              3D ISOMETRIC CALENDAR MODEL                -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=0&pause=9999&color=6E57F7&center=true&vCenter=true&width=720&height=40&lines=%3E+CONTRIBUTION+MODEL_" alt="Contributions" />
-
-<br/>
-
-<!-- 3D ISOMETRIC CALENDAR -->
-<img src="https://metrics.lecoq.io/Abhishektiwari050?template=classic&base=0&isocalendar=1&isocalendar.duration=full-year" alt="3D Isometric Contribution Calendar" width="60%" />
-
-<br/>
-
-<!-- ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishektiwari050&bg_color=0D1117&color=6E57F7&line=6E57F7&point=9D8EFF&area=true&hide_border=true&area_color=6E57F7" width="98%" />
+<!-- GitHub Stats & Top Languages -->
+<a href="https://github.com/Abhishektiwari050">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishektiwari050&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&icon_color=9D8EFF&text_color=cccccc&ring_color=6E57F7&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishektiwari050&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&text_color=cccccc&langs_count=6" height="165" alt="Top Languages" />
+</a>
 
 <br/><br/>
 
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
+<!-- Streak Stats -->
+<a href="https://github.com/Abhishektiwari050">
+  <img src="https://streak-stats.demolab.com/?user=Abhishektiwari050&theme=tokyonight&hide_border=true&background=0D1117&ring=6E57F7&fire=9D8EFF&currStreakLabel=6E57F7&sideLabels=9D8EFF&dates=666666&stroke=6E57F7" width="85%" alt="GitHub Streak" />
+</a>
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!--                    GITHUB STATS                         -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=0&pause=9999&color=6E57F7&center=true&vCenter=true&width=720&height=40&lines=%3E+STATS_" alt="Stats" />
+---
 
-<br/>
+### 🐍 Contribution Stream
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abhishektiwari050&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&icon_color=9D8EFF&text_color=cccccc&ring_color=6E57F7&count_private=true&include_all_commits=true" height="165" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishektiwari050&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&text_color=cccccc&langs_count=6" height="165" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=Abhishektiwari050&theme=tokyonight&hide_border=true&background=0D1117&ring=6E57F7&fire=9D8EFF&currStreakLabel=6E57F7&sideLabels=9D8EFF&dates=666666&stroke=6E57F7" width="58%" />
-
-<br/><br/>
-
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!--                 CONTRIBUTION SNAKE                      -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=0&pause=9999&color=6E57F7&center=true&vCenter=true&width=720&height=40&lines=%3E+COMMITS+EAT+THE+SNAKE_" alt="Snake" />
-
-<br/>
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Abhishektiwari050/Abhishektiwari050/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Abhishektiwari050/Abhishektiwari050/output/github-snake.svg">
-  <img alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/Abhishektiwari050/Abhishektiwari050/output/github-snake-dark.svg"
-    width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhishektiwari050/Abhishektiwari050/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhishektiwari050/Abhishektiwari050/output/github-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Abhishektiwari050/Abhishektiwari050/output/github-snake-dark.svg" width="100%" />
 </picture>
 
-<br/>
+</div>
 
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
+---
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!--                      FOOTER                             -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=4000&pause=1500&color=9D8EFF&center=true&vCenter=true&width=720&height=50&lines=thanks+for+visiting+%F0%9F%91%BE;let's+build+something+cool;%3E+%5Bcontact+me%5D_" alt="Footer text" />
+### 🤝 Let's Connect & Collaborate
 
-<br/>
+Whether you're looking for an **AI / Agentic Systems Engineer**, exploring distributed backend architectures, or want to build something cutting-edge together:
 
-<a href="https://www.linkedin.com/in/abhishek-tiwari-84841b258/">
-  <img src="https://img.shields.io/badge/LINKEDIN-6E57F7?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-tiwari-84841b258/)
 &nbsp;
-<a href="https://antishake.vercel.app">
-  <img src="https://img.shields.io/badge/PORTFOLIO-6E57F7?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+[![Portfolio](https://img.shields.io/badge/Explore_Portfolio-6E57F7?style=for-the-badge&logo=vercel&logoColor=white)](https://antishake.vercel.app)
+&nbsp;
+[![Email](https://img.shields.io/badge/Direct_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishektiwari050@gmail.com)
 
-<br/><br/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6E57F7&height=120&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
